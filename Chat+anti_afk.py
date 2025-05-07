@@ -5,12 +5,12 @@ from termcolor import colored
 
 # PUT MESSAGES HERE!
 MESSAGES = [
-    "MESSAGE 1",
-    "MESSAGE 2",
-    "MESSAGE 3",
-    "MISPELLED MESSAGE 1",
-    "MISPELLED MESSAGE 2",
-    "MISPELLED MESSAGE 3",
+    "🔴 GIVEAWAY SOON 🔴",
+    "🔴 RECORDING 🔴",
+    "🔴 RECORDING, GIVEAWAY AT 100 🔴",
+    "🔴 GIVEWAY SOON 🔴",
+    "🔴 RECORDINGG 🔴",
+    "🔴 RECORDING GIVEWAY AT 100 🔴",
 ]
 
 print(colored('Do not put "robux" or anything like that or else you might get banned!', 'white', 'on_red', ['bold', 'underline']))
